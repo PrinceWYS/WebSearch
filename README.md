@@ -1,5 +1,7 @@
 # 第七组文档说明
 
+注：第一次运行程序耗费时间会很大！
+
 ## 1 实现功能
 本项目实现了一个基于特定语料库的搜索引擎，其支持的功能有：
 
@@ -53,9 +55,9 @@
   ```
 
 - 运行时若发生以下错误：
-<img src="./1.png" />
+<img src="https://github.com/wys0912/WebSearch/blob/master/1.png" />
 则打开`path/numpy/lib/format.py`（VSCode中`Ctrl+Click`/`Cmd+Click`可以直接跳转），将以下注释：
-<img src="./2.png" />
+<img src="https://github.com/wys0912/WebSearch/blob/master/2.png" />
 
 ### 2.2 程序运行
 - 进入到项目文件夹下
